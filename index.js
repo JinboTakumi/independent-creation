@@ -2,15 +2,15 @@
 
 const quiz = [
     {
-    question:'神保の身長は次のうちどれ？',
+    question:'takkunの身長は次のうちどれ？',
     answers:['165cm','170cm','175cm','180cm'],
     correct:'170cm'
     },{
-    question:'神保の体重は次のうちどれ？',
+    question:'takkunの体重は次のうちどれ？',
     answers:['70kg','65kg','60kg','55kg'],
     correct:'60kg' 
     },{
-    question:'神保の誕生日は次のうちどれ？',
+    question:'takkunの誕生日は次のうちどれ？',
     answers:['2月14日','2月11日','2月17日','2月21日'],
     correct:'2月21日' 
     }
